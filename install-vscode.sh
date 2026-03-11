@@ -44,7 +44,7 @@ echo ""
 echo "Step 6: Installing VS Code..."
 sudo apt-get install -y code
 echo "✓ VS Code installed successfully!"
-echo ""
+echo "  "
 
 echo "=========================================="
 echo "Installation Complete!"
